@@ -2,7 +2,7 @@
 
 ## Overview
 
-The ITEM BANK application is a desktop-based application built using Python's `tkinter` library and MySQL for managing item donations. The application allows users to:
+The ITEM Donation Management System application is a desktop-based application built using Python's `tkinter` library and MySQL for managing item donations. The application allows users to:
 
 - Enter donor details.
 - Enter item details for donation.
